@@ -3,8 +3,8 @@
 return {
   
   xnum = 2496, -- number of cells in the x-direction
-  ynum = 1248, -- number of cells in the y-direction
-  znum = 1248, -- number of cells in the z-direction
+  ynum = 2496, -- number of cells in the y-direction
+  znum = 2496, -- number of cells in the z-direction
 
   -- if you increase the cell number and the calculation diverges
   -- right away, decrease the time step on the next line
